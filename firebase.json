@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "chengsokdara-cv",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

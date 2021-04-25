@@ -1,0 +1,42 @@
+html,
+body,
+#app {
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+div,
+header,
+main,
+section {
+  display: flex;
+  flex-direction: column;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+ul {
+  padding-inline-start: 20px;
+}
+li {
+  word-break: break-word;
+}
+a:link,
+a:active,
+a:visited {
+  color: darkslateblue;
+}
+a:hover {
+  color: darkviolet;
+}

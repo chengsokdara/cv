@@ -1,0 +1,809 @@
+{
+  "theme": {
+    "colors": {
+      "workDate": "#777",
+      "projectName": "#666"
+    }
+  },
+  "name": "Cheng Sokdara",
+  "title": "Full-stack JavaScript Developer",
+  "short": "College drop-out and self-taught for 9+ years, experienced in native Android app development for 6+ years. Specialized in cross-platform mobile app development with React Native, web and desktop app development with React for 3+ years professionally.",
+  "introduction": "College drop-out and self-learner for 9+ years, I got my high school diploma from Bak Touk High School.\n\nExperience in Android development for 5+ years. I developed several of my own apps and published to the Google Play Store, which were well received at that time with some got almost a million downloads. In 2018, I got into React and React Native with a local startup delivery company. I developed a few crucial cross-platform mobile apps. This prepared me well and I got deep into the ecosystem. I wrote some of my own library and contributed to the React community on GitHub and NPM. I am a very passionate coder and result-oriented person, to me I want to deliver quality in product I worked on. I think that is a quality that could help a company thrive.",
+  "personal": {
+    "address": "#165E0Z, Street 128, Sangkat Mittapheap, Khan Prampir Makara, Phnom Penh, Cambodia",
+    "dob": "29 July 1988",
+    "email": "chengsokdara@gmail.com",
+    "phone": "(855) 86-558-716",
+    "websites": [
+      {
+        "label": "chengsokdara.web.app",
+        "value": "https://chengsokdara.web.app"
+      },
+      {
+        "label": "rawewhat-team.web.app",
+        "value": "https://rawewhat-team.web.app"
+      },
+      {
+        "label": "androidsanctum.blogspot.com",
+        "value": "http://androidsanctum.blogspot.com"
+      }
+    ],
+    "socials": [
+      {
+        "label": "linkedin.com/in/chengsokdara",
+        "value": "https://www.linkedin.com/in/chengsokdara"
+      },
+      {
+        "label": "medium.com/@chengsokdara",
+        "value": "https://medium.com/@chengsokdara"
+      }
+    ],
+    "repositories": [
+      {
+        "label": "github.com/chengsokdara",
+        "value": "https://github.com/chengsokdara"
+      },
+      {
+        "label": "github.com/rawewhat",
+        "value": "https://github.com/rawewhat"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "react",
+      "link": "https://reactjs.org",
+      "rate": 5
+    },
+    {
+      "name": "react-native",
+      "link": "https://reactnative.dev",
+      "rate": 5
+    },
+    {
+      "name": "node",
+      "link": "https://nodejs.dev",
+      "rate": 4
+    },
+    {
+      "name": "firebase",
+      "link": "https://firebase.google.com",
+      "rate": 5
+    },
+    {
+      "name": "graphql",
+      "link": "https://graphql.org",
+      "rate": 5
+    },
+    {
+      "name": "java",
+      "link": "https://www.java.com",
+      "rate": 3
+    },
+    {
+      "name": "kotlin",
+      "link": "https://kotlinlang.org",
+      "rate": 3
+    },
+    {
+      "name": "android",
+      "link": "https://developer.android.com",
+      "rate": 4
+    },
+    {
+      "name": "javascript",
+      "link": "https://www.javascript.com/",
+      "rate": 5
+    },
+    {
+      "name": "rest",
+      "link": "https://restfulapi.net",
+      "rate": 4
+    },
+    {
+      "name": "npm",
+      "link": "https://www.npmjs.com",
+      "rate": 4
+    },
+    {
+      "name": "html5",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5",
+      "rate": 5
+    },
+    {
+      "name": "css3",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "rate": 5
+    },
+    {
+      "name": "es6",
+      "link": "https://www.w3schools.com/js/js_es6.asp",
+      "rate": 5
+    },
+    {
+      "name": "es5",
+      "link": "https://www.w3schools.com/js/js_es5.asp",
+      "rate": 5
+    },
+    {
+      "name": "php",
+      "link": "https://www.php.net",
+      "rate": 3
+    },
+    {
+      "name": "nosql",
+      "link": "https://www.mongodb.com/nosql-explained",
+      "rate": 3
+    },
+    {
+      "name": "mysql",
+      "link": "https://www.mysql.com",
+      "rate": 3
+    },
+    {
+      "name": "postgresql",
+      "link": "https://www.postgresql.org",
+      "rate": 3
+    },
+    {
+      "name": "hasura",
+      "link": "https://hasura.io",
+      "rate": 3
+    },
+    {
+      "name": "prisma",
+      "link": "https://www.prisma.io",
+      "rate": 3
+    },
+    {
+      "name": "serverless",
+      "link": "https://www.serverless.com",
+      "rate": 3
+    },
+    {
+      "name": "redux",
+      "link": "https://redux.js.org",
+      "rate": 5
+    },
+    {
+      "name": "redux-saga",
+      "link": "https://redux-saga.js.org",
+      "rate": 4
+    },
+    {
+      "name": "redux-toolkit",
+      "link": "https://redux-toolkit.js.org",
+      "rate": 5
+    },
+    {
+      "name": "redux-thunk",
+      "link": "https://github.com/reduxjs/redux-thunk",
+      "rate": 5
+    },
+    {
+      "name": "redux-perist",
+      "link": "https://github.com/rt2zz/redux-persist",
+      "rate": 5
+    },
+    {
+      "name": "react-native-web",
+      "link": "https://github.com/necolas/react-native-web",
+      "rate": 5
+    },
+    {
+      "name": "express.js",
+      "link": "https://expressjs.com",
+      "rate": 4
+    },
+    {
+      "name": "next.js",
+      "link": "https://nextjs.org",
+      "rate": 5
+    },
+    {
+      "name": "apollo-server",
+      "link": "https://www.apollographql.com/docs/apollo-server",
+      "rate": 5
+    },
+    {
+      "name": "apollo-client",
+      "link": "https://www.apollographql.com/docs/react",
+      "rate": 5
+    },
+    {
+      "name": "gatsby",
+      "link": "https://www.gatsbyjs.com",
+      "rate": 4
+    },
+    {
+      "name": "figma",
+      "link": "https://www.figma.com",
+      "rate": 5
+    },
+    {
+      "name": "sketch",
+      "link": "https://www.sketch.com",
+      "rate": 3
+    },
+    {
+      "name": "xd",
+      "link": "https://www.adobe.com/products/xd.html",
+      "rate": 3
+    },
+    {
+      "name": "git",
+      "link": "https://git-scm.com",
+      "rate": 5,
+      "space": "50px"
+    },
+    {
+      "name": "github",
+      "link": "https://github.com",
+      "rate": 5
+    },
+    {
+      "name": "gitlab",
+      "link": "https://about.gitlab.com",
+      "rate": 5
+    },
+    {
+      "name": "bitbucket",
+      "link": "https://bitbucket.org",
+      "rate": 5
+    },
+    {
+      "name": "jira",
+      "link": "https://www.atlassian.com/software/jira",
+      "rate": 5
+    },
+    {
+      "name": "trello",
+      "link": "https://trello.com",
+      "rate": 5
+    },
+    {
+      "name": "clickup",
+      "link": "https://clickup.com",
+      "rate": 5
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "rate": "Communicable"
+    },
+    {
+      "name": "Khmer",
+      "rate": "Mother tongue"
+    },
+    {
+      "name": "Japanese",
+      "rate": "Beginner"
+    },
+    {
+      "name": "Chinese",
+      "rate": "Beginner"
+    }
+  ],
+  "works": [
+    {
+      "date": {
+        "from": "April 2021",
+        "to": "Present"
+      },
+      "position": "Senior React Developer",
+      "company": {
+        "name": "Mediapark",
+        "link": "https://mediapark.com"
+      },
+      "projects": [
+        {
+          "name": "MELP",
+          "description": "React Native App",
+          "links": [
+            {
+              "type": "web",
+              "link": "http://melp.com"
+            }
+          ],
+          "tasks": [
+            "maintain the project and fix bugs",
+            "implement new features and code review"
+          ]
+        },
+        {
+          "name": "NOCV",
+          "description": "React Native App",
+          "links": [
+            {
+              "type": "web",
+              "link": "https://no-cv.com"
+            },
+            {
+              "type": "apple",
+              "link": "https://apps.apple.com/gb/app/no-cv/id1515692284"
+            },
+            {
+              "type": "google",
+              "link": "https://play.google.com/store/apps/details?id=eu.nocvapp.nocv"
+            }
+          ],
+          "tasks": [
+            "provide support and fix existing bugs",
+            "implement additional features"
+          ]
+        },
+        {
+          "name": "1000words",
+          "description": "React Native App",
+          "links": [
+            {
+              "type": "web",
+              "link": "https://1000wordsapp.com"
+            }
+          ],
+          "tasks": [
+            "maintain the project and fix bugs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "from": "April 2020",
+        "to": "March 2021"
+      },
+      "position": "Lead Web Developer",
+      "company": {
+        "name": "The Foundry",
+        "link": "https://thefoundry.app"
+      },
+      "projects": [
+        {
+          "name": "KOTRA-Riel",
+          "description": "React Native App",
+          "links": [
+            {
+              "type": "web",
+              "link": "https://www.kotrariel.com/"
+            },
+            {
+              "type": "apple",
+              "link": "https://apps.apple.com/us/app/kotra-riel/id1548441646"
+            },
+            {
+              "type": "google",
+              "link": "https://play.google.com/store/apps/details?id=com.she_investment.kotra_riel"
+            }
+          ],
+          "tasks": [
+            "as project manager create and give tasks to other senior and junior developers using Github project",
+            "as lead developer adding features and create custom scalable project structure",
+            "manage backend using Firebase firestore, cloud messaging, authentication, crashlytics",
+            "CI/CD automate build for Android using Microsoft App Center",
+            "manage and upload app to Google Play Store and Apple App Store"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "from": "August 2019",
+        "to": "December 2019"
+      },
+      "position": "Senior JavaScript Developer",
+      "company": {
+        "name": "Joonaak Delivery",
+        "link": "https://joonaak.com"
+      },
+      "projects": [
+        {
+          "name": "Joonak Driver",
+          "description": "React Native App",
+          "links": [
+            {
+              "type": "apple",
+              "link": "https://apps.apple.com/kh/app/joonaak-driver/id1456727887"
+            },
+            {
+              "type": "google",
+              "link": "https://play.google.com/store/apps/details?id=com.joonaakdriver"
+            }
+          ],
+          "tasks": [
+            "work with challenging feature like foreground and background location tracking",
+            "implement map view, marker and direction for driver",
+            "real-time data update using GraphQL subscription with socket.io",
+            "teach and help interns building custom UI components"
+          ]
+        },
+        {
+          "name": "Telegram Bot and Dashboard",
+          "description": "Node and Web App",
+          "links": [
+            {
+              "type": "web",
+              "link": "https://joonaak-bill-bot.web.app/"
+            }
+          ],
+          "tasks": [
+            "create telegram bot with node server using telegra library",
+            "host telegram bot on Firebase cloud functions",
+            "use web hooks to communicate between the bot server and web dashboard",
+            "create custom toolchain for project scaffolding using parcel-bundler"
+          ]
+        },
+        "40px",
+        {
+          "name": "Joonaak Hub 2.0",
+          "description": "Next.js Web App",
+          "links": [
+            {
+              "type": "web",
+              "link": "https://joonaak-hub.web.app/delivery"
+            }
+          ],
+          "tasks": [
+            "use next.js framework for server-side rendering web app",
+            "global state management using my own library called StoRa",
+            "enterprise class UI library with ant design"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "from": "February 2019",
+        "to": "June 2019"
+      },
+      "position": "Freelance Developer",
+      "company": {
+        "name": "Joonaak Delivery",
+        "link": "https://joonaak.com"
+      },
+      "projects": [
+        {
+          "name": "Joonaak Agent",
+          "description": "unreleased",
+          "tasks": [
+            "overall project development from planning, UI, UX, and coding",
+            "working closly with the CEO and co-founder to turn his/her ideas into working prototype"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "from": "October 2018",
+        "to": "February 2019"
+      },
+      "position": "Mid JavaScript Developer",
+      "company": {
+        "name": "Joonaak Delivery",
+        "link": "https://joonaak.com"
+      },
+      "projects": [
+        {
+          "name": "Joonaak Hub",
+          "description": "React Web App",
+          "links": [
+            {
+              "type": "web",
+              "link": "https://joonaakhub.com"
+            }
+          ],
+          "tasks": [
+            "learn react, react native and graphql in just three months",
+            "add delivery orders, pick and pack and merchant features"
+          ]
+        },
+        {
+          "name": "Joonaak Merchant",
+          "description": "React Native App",
+          "links": [
+            {
+              "type": "apple",
+              "link": "https://apps.apple.com/us/app/joonaak-merchant/id1453004064"
+            },
+            {
+              "type": "google",
+              "link": "https://play.google.com/store/apps/details?id=com.joonaak_merchant_app"
+            }
+          ],
+          "tasks": [
+            "independently develop the app using React Native and Redux",
+            "design overal UI and UX of the app",
+            "writing custom components to use in the app"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "KhmerQR Pro",
+      "date": "2021",
+      "description": "React Native App",
+      "logo": "https://play-lh.googleusercontent.com/N6R8UGGkEGRLRDsWwFkkh4TtEPfE8HFIwHoH8MB7vMzVJ7IASiLqjg6l9vkk3Nlt-w=s360-rw",
+      "links": [
+        {
+          "type": "google",
+          "link": "https://play.google.com/store/apps/details?id=com.rawewhat.khmerqr.pro"
+        }
+      ]
+    },
+    {
+      "name": "KhmerQR",
+      "description": "React Native App",
+      "logo": "https://play-lh.googleusercontent.com/-Y1Jjp_y_0bJz8t3sTwZ__VHZHxPvGcMN51in5_tnOG6LlOMzEI8lXKDKWMUl-gN_A=s360-rw",
+      "links": [
+        {
+          "type": "web",
+          "link": "https://chengsokdara.github.io/KhmerQR"
+        },
+        {
+          "type": "google",
+          "link": "https://play.google.com/store/apps/details?id=com.rawewhat.khmerqr"
+        }
+      ]
+    },
+    {
+      "name": "KHmeter",
+      "date": "2020",
+      "description": "React Native App",
+      "logo": "https://play-lh.googleusercontent.com/8hfSbVBDz6na1biEyq5w068qxeCatgPKGr3B8jSMO9vltT71CbWvg6G-6KIanvYSEIGi=s360-rw",
+      "links": [
+        {
+          "type": "web",
+          "link": "https://khmeter.web.app/"
+        },
+        {
+          "type": "google",
+          "link": "https://play.google.com/store/apps/details?id=com.daradev.taximeter"
+        }
+      ]
+    },
+    {
+      "name": "Khmer Live TV",
+      "date": "2018",
+      "description": "Native Android Kotlin App",
+      "logo": "https://lh3.googleusercontent.com/9Q_M22zVsWL3-_10Fob9a8PQsrjazqpWwDvPQcj8wXPur87mP5WaL-6rumZvXIW6mWM",
+      "links": [
+        {
+          "type": "web",
+          "link": "https://apkpure.com/khmer-live-tv/com.daradev.tv"
+        }
+      ]
+    },
+    {
+      "name": "Khmer Font Store",
+      "date": "2015",
+      "description": "Native Android App",
+      "logo": "https://lh3.googleusercontent.com/WDnI-suefO27BgRGi8-oSjUXkEAIaHTxvEDZa8Vr9iBXQxYPplYSxY-5gvcUKsufc_c",
+      "links": [
+        {
+          "type": "web",
+          "link": "https://apkpure.com/khmer-font-store/com.daradev.fontstore"
+        }
+      ]
+    },
+    {
+      "name": "Top Music Charts",
+      "date": "2013",
+      "description": "Native Android App",
+      "logo": "https://lh3.ggpht.com/_q9c5sD-b9GINQ3OHk1zhjL_BHPKUx82L9xTY8ZDsuWstn-sksLQBMXIEjB_NZCVNJY",
+      "links": [
+        {
+          "type": "web",
+          "link": "https://www.freeapk.id/top-music-charts-for-android/com.homi3kh.tmc/"
+        }
+      ]
+    },
+    {
+      "name": "Chartix",
+      "date": "2012",
+      "description": "Native Android App",
+      "logo": "https://lh4.ggpht.com/BQhr1kgQGl9x8-dsregj3OqJF9D7U1gd5U8Z485FfTwpO7fksYmIhGTEMZV_bQtwBFU",
+      "links": [
+        {
+          "type": "web",
+          "link": "https://ar.happymod.com/chartix-android-music-charts-mod/com.homi3kh.chartix/original.html"
+        }
+      ]
+    },
+    {
+      "name": "Facebook Image Grabber Pro",
+      "description": "Native Android App",
+      "logo": "https://lh5.ggpht.com/cVGK-7EOrhmvD34IFcFA-YmVXO3-4QkLfZQKCTc6FU3fMLSEp-8kuiTI4fWf1qddWQ",
+      "links": [
+        {
+          "type": "web",
+          "link": "http://slideme.org/application/facebook-image-grabber"
+        }
+      ]
+    },
+    {
+      "name": "Facebook Image Grabber Free",
+      "description": "Native Android App",
+      "logo": "https://lh5.ggpht.com/cVGK-7EOrhmvD34IFcFA-YmVXO3-4QkLfZQKCTc6FU3fMLSEp-8kuiTI4fWf1qddWQ",
+      "links": [
+        {
+          "type": "web",
+          "link": "https://www.allfreeapk.com/facebook-image-grabber-free,111634/"
+        }
+      ]
+    },
+    {
+      "name": "Khmer Unicode Installer",
+      "description": "Native Android App",
+      "logo": "https://play-lh.googleusercontent.com/DBcbktYKyuNKjPKe7SO2MarZM23l6E23Gx8bQ5kU0dfMtcBVwDaB5rId67jHiKSuKwo=s360-rw",
+      "links": [
+        {
+          "type": "google",
+          "link": "https://play.google.com/store/apps/details?id=com.blogspot.androidsanctum.kui"
+        }
+      ]
+    }
+  ],
+  "openSources": [
+    {
+      "name": "rarn",
+      "date": "2020",
+      "description": "Ra React Native Boilerplate",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/rarn"
+        }
+      ]
+    },
+    {
+      "name": "react-native-picker",
+      "description": "Picker for React Native",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/react-native-picker"
+        },
+        {
+          "type": "npm",
+          "link": "https://www.npmjs.com/package/@rawewhat/react-native-picker"
+        }
+      ]
+    },
+    {
+      "name": "react-native-keep-rawake",
+      "description": "Keep Screen on",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/react-native-keep-rawake"
+        },
+        {
+          "type": "npm",
+          "link": "https://www.npmjs.com/package/@rawewhat/react-native-keep-rawake"
+        }
+      ]
+    },
+    {
+      "name": "stora",
+      "date": "2019",
+      "description": "Redux replacement hooks style",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/stora"
+        },
+        {
+          "type": "npm",
+          "link": "https://www.npmjs.com/package/@rawewhat/stora"
+        }
+      ]
+    },
+    {
+      "name": "reactra",
+      "description": "React starter kit using parcel.js + ssr",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/reactra"
+        }
+      ]
+    },
+    {
+      "name": "quera",
+      "description": "Firestore client written in React hooks",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/quera"
+        },
+        {
+          "type": "npm",
+          "link": "https://www.npmjs.com/package/@rawewhat/quera"
+        }
+      ]
+    },
+    {
+      "name": "ranative",
+      "description": "React Native boilerplate",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/ranative"
+        }
+      ]
+    },
+    {
+      "name": "routera",
+      "description": "A simple router for React",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/routra"
+        },
+        {
+          "type": "npm",
+          "link": "https://www.npmjs.com/package/@rawewhat/routra"
+        }
+      ]
+    },
+    {
+      "name": "telegra",
+      "description": "Telegram bot API wrapper for Node",
+      "links": [
+        {
+          "type": "github",
+          "link": "https://github.com/rawewhat/telegra"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "date": {
+        "from": "2001",
+        "to": "2005"
+      },
+      "name": "Bak Touk High School",
+      "degree": "High School Diploma"
+    }
+  ],
+  "trainings": [
+    {
+      "date": {
+        "from": "2011",
+        "to": "2012 - Pass with Distinction"
+      },
+      "name": "Australian Cetre for Education (ACE)",
+      "degree": "Certificate of General English Program"
+    },
+    {
+      "date": {
+        "from": "2012",
+        "to": "2012"
+      },
+      "name": "Australian Cetre for Education (ACE)",
+      "degree": "IELTS with 6.5 overall score"
+    }
+  ],
+  "accomplishments": [
+    {
+      "date": "29 November, 2012",
+      "description": "Facebook Image Grabber was featured on several international\nrecognized Android news website.",
+      "link": {
+        "label": "Android Authority",
+        "value": "https://www.androidauthority.com/facebook-image-grabber-app-review-134839/"
+      }
+    }
+  ],
+  "volunteers": [
+    {
+      "date": "15 November, 2006",
+      "description": "Completed volunteer work at Cambodian Center for the Protection of Children's Rights (CCPCR).",
+      "note": "Help developing residents educational abilities and moral awareness."
+    }
+  ],
+  "hobbies": [],
+  "interests": []
+}
