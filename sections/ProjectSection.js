@@ -6,7 +6,15 @@ import Icon from '@mdi/react'
 const ProjectSection = ({ data }) => {
   const render = (projects) => {
     return projects?.map((project, index) =>
-      project ? (
+      typeof project === 'string' ? (
+        <Container key={`${index}`}>
+          <TimeLine>
+            {project.date ? <Dot /> : null}
+            <Line />
+          </TimeLine>
+          <EmptySpace spacing={project} />
+        </Container>
+      ) : project ? (
         <Container key={`${index}`}>
           <TimeLine>
             {project.date ? <Dot /> : null}
@@ -118,6 +126,10 @@ const Logo = styled.img`
   height: 24px;
   padding-right: 8px;
   width: 24px;
+`
+
+const EmptySpace = styled.div`
+  height: ${({ spacing }) => spacing};
 `
 
 export default ProjectSection

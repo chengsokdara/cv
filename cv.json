@@ -7,7 +7,7 @@
   },
   "name": "Cheng Sokdara",
   "title": "Full-stack JavaScript Developer",
-  "short": "College drop-out and self-taught for 9+ years, experienced in native Android app development for 6+ years. Specialized in cross-platform mobile app development with React Native, web and desktop app development with React for 3+ years professionally.",
+  "short": "College drop-out and self-taught for 9+ years, specialized in cross-platform mobile app development with React Native, web and desktop app development with React for 3+ years professionally.",
   "introduction": "College drop-out and self-learner for 9+ years, I got my high school diploma from Bak Touk High School.\n\nExperience in Android development for 5+ years. I developed several of my own apps and published to the Google Play Store, which were well received at that time with some got almost a million downloads. In 2018, I got into React and React Native with a local startup delivery company. I developed a few crucial cross-platform mobile apps. This prepared me well and I got deep into the ecosystem. I wrote some of my own library and contributed to the React community on GitHub and NPM. I am a very passionate coder and result-oriented person, to me I want to deliver quality in product I worked on. I think that is a quality that could help a company thrive.",
   "personal": {
     "address": "#165E0Z, Street 128, Sangkat Mittapheap, Khan Prampir Makara, Phnom Penh, Cambodia",
@@ -288,8 +288,29 @@
   "works": [
     {
       "date": {
-        "from": "April 2021",
+        "from": "July 2021",
         "to": "Present"
+      },
+      "position": "Freelance React Developer",
+      "company": {
+        "name": "The Foundry",
+        "link": "https://thefoundry.app"
+      },
+      "projects": [
+        {
+          "name": "Cybersecurity",
+          "description": "Next.js Mobile Web App (In progress)",
+          "tasks": [
+            "implement lottie-web player to play animations",
+            "overall web app development"
+          ]
+        }
+      ]
+    },
+    {
+      "date": {
+        "from": "April 2021",
+        "to": "June 2021"
       },
       "position": "Senior React Developer",
       "company": {
@@ -307,8 +328,9 @@
             }
           ],
           "tasks": [
-            "maintain the project and fix bugs",
-            "implement new features and code review"
+            "complete first phase of the app and upload to app store",
+            "implement new features and code review",
+            "maintain the project and fix bugs"
           ]
         },
         {
@@ -331,19 +353,6 @@
           "tasks": [
             "provide support and fix existing bugs",
             "implement additional features"
-          ]
-        },
-        {
-          "name": "1000words",
-          "description": "React Native App",
-          "links": [
-            {
-              "type": "web",
-              "link": "https://1000wordsapp.com"
-            }
-          ],
-          "tasks": [
-            "maintain the project and fix bugs"
           ]
         }
       ]
@@ -417,6 +426,7 @@
             "teach and help interns building custom UI components"
           ]
         },
+        "80px",
         {
           "name": "Telegram Bot and Dashboard",
           "description": "Node and Web App",
@@ -433,7 +443,6 @@
             "create custom toolchain for project scaffolding using parcel-bundler"
           ]
         },
-        "40px",
         {
           "name": "Joonaak Hub 2.0",
           "description": "Next.js Web App",
@@ -599,6 +608,7 @@
         }
       ]
     },
+    "120px",
     {
       "name": "Chartix",
       "date": "2012",

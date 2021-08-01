@@ -81,6 +81,10 @@ const HomePage = () => {
               <Title>{name}</Title>
               <SubTitle>{title}</SubTitle>
               <Short>{short}</Short>
+              <Notice>
+                * this cv is generated using my own custom build react.js +
+                parcel.js web app using just a single cv.json file.
+              </Notice>
             </TitleContainer>
             <Section Icon={<Icon path={mdiBriefcaseVariant} size="16px" />}>
               Work Experiences
@@ -90,7 +94,7 @@ const HomePage = () => {
               Personal Projects
             </Section>
             <ProjectSection data={projects} />
-            <EmptySpace />
+
             <Section Icon={<Icon path={mdiOpenSourceInitiative} size="16px" />}>
               Open Source
             </Section>
@@ -107,6 +111,7 @@ const HomePage = () => {
               Accomplishments
             </Section>
             <AccomplishmentSection data={accomplishments} />
+            <EmptySpace />
             <Section Icon={<Icon path={mdiHandHeart} size="16px" />}>
               Volunteers
             </Section>
@@ -165,6 +170,13 @@ const SubTitle = styled.h2`
 `
 
 const Short = styled.p`
+  margin-bottom: 8px;
+  white-space: normal;
+`
+
+const Notice = styled.p`
+  color: red;
+  font-size: 12px;
   white-space: normal;
 `
 
